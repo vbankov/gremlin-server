@@ -1,5 +1,5 @@
 FROM openjdk:8-alpine
-MAINTAINER Benjamin Ricaud <benjamin.ricaud@eviacybernetics.com>
+MAINTAINER Vasilis Bankov <vasilis.bankov@gmail.com>
 
 
 # Install tools
